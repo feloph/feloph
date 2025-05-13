@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @feloph
 - 👀 I’m interested in ML/DL and AI
-- 🌱 I’m currently working on projects in phthon, SQL, SAS, Power BI, Tableau  and Machine learning Models
+- 🌱 I’m currently working on projects in Python, SQL, SAS, Power BI, Tableau  and Machine learning Models
 - 💞️ I’m looking to collaborate on new projects
